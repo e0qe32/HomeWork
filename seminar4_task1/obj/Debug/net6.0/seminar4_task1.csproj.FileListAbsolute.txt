@@ -1,0 +1,15 @@
+C:\Users\e0qe32.LINRU\Desktop\ОБУЧЕНИЕ\HomeTask_seminar\seminar4_task1\obj\Debug\net6.0\seminar4_task1.csproj.AssemblyReference.cache
+C:\Users\e0qe32.LINRU\Desktop\ОБУЧЕНИЕ\HomeTask_seminar\seminar4_task1\obj\Debug\net6.0\seminar4_task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e0qe32.LINRU\Desktop\ОБУЧЕНИЕ\HomeTask_seminar\seminar4_task1\obj\Debug\net6.0\seminar4_task1.AssemblyInfoInputs.cache
+C:\Users\e0qe32.LINRU\Desktop\ОБУЧЕНИЕ\HomeTask_seminar\seminar4_task1\obj\Debug\net6.0\seminar4_task1.AssemblyInfo.cs
+C:\Users\e0qe32.LINRU\Desktop\ОБУЧЕНИЕ\HomeTask_seminar\seminar4_task1\obj\Debug\net6.0\seminar4_task1.csproj.CoreCompileInputs.cache
+C:\Users\e0qe32.LINRU\Desktop\ОБУЧЕНИЕ\HomeTask_seminar\seminar4_task1\bin\Debug\net6.0\seminar4_task1.exe
+C:\Users\e0qe32.LINRU\Desktop\ОБУЧЕНИЕ\HomeTask_seminar\seminar4_task1\bin\Debug\net6.0\seminar4_task1.deps.json
+C:\Users\e0qe32.LINRU\Desktop\ОБУЧЕНИЕ\HomeTask_seminar\seminar4_task1\bin\Debug\net6.0\seminar4_task1.runtimeconfig.json
+C:\Users\e0qe32.LINRU\Desktop\ОБУЧЕНИЕ\HomeTask_seminar\seminar4_task1\bin\Debug\net6.0\seminar4_task1.dll
+C:\Users\e0qe32.LINRU\Desktop\ОБУЧЕНИЕ\HomeTask_seminar\seminar4_task1\bin\Debug\net6.0\seminar4_task1.pdb
+C:\Users\e0qe32.LINRU\Desktop\ОБУЧЕНИЕ\HomeTask_seminar\seminar4_task1\obj\Debug\net6.0\seminar4_task1.dll
+C:\Users\e0qe32.LINRU\Desktop\ОБУЧЕНИЕ\HomeTask_seminar\seminar4_task1\obj\Debug\net6.0\refint\seminar4_task1.dll
+C:\Users\e0qe32.LINRU\Desktop\ОБУЧЕНИЕ\HomeTask_seminar\seminar4_task1\obj\Debug\net6.0\seminar4_task1.pdb
+C:\Users\e0qe32.LINRU\Desktop\ОБУЧЕНИЕ\HomeTask_seminar\seminar4_task1\obj\Debug\net6.0\seminar4_task1.genruntimeconfig.cache
+C:\Users\e0qe32.LINRU\Desktop\ОБУЧЕНИЕ\HomeTask_seminar\seminar4_task1\obj\Debug\net6.0\ref\seminar4_task1.dll
