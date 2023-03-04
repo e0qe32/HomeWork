@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "semunar7_task3/1.0.0": {
+        "runtime": {
+          "semunar7_task3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "semunar7_task3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
